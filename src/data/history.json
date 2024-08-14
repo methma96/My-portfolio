@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Codegen International",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": ["worked as a full stack developer for Holidays by FlyDubai."],
+    "imageSrc": "history/FZ.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Codegen International",
+    "startDate": "Mar, 2021",
+    "endDate": "Dec, 2022",
+    "experiences": ["worked as a full stack developer for Virgin Atlantic Holidays, UK."],
+    "imageSrc": "history/VH.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Axiata Digital Labs",
+    "startDate": "Jun, 2019",
+    "endDate": "Dec, 2019",
+    "experiences": [
+      "Worked on Dialog-Wifi project."
+    ],
+    "imageSrc": "history/ADL.png"
+  }
+  ,
+  {
+    "role": "Software Engineer",
+    "organisation": "Freelancer",
+    "startDate": "Jan, 2020",
+    "endDate": "Dec, 2020",
+    "experiences": [
+      "Developed web sites for ecommerce applications"
+    ],
+    "imageSrc": "history/Free.png"
+  }
+
+]

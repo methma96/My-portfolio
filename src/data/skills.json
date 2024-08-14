@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Spring",
+    "imageSrc": "skills/sb.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/sb.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.jfif"
+  },
+  
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.jfif"
+  },
+ 
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+  ,
+ 
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  }
+]

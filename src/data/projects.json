@@ -1,0 +1,33 @@
+[
+  {
+    "title": "EasyBin",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to a workflow management system for metagenomics binning process with parallel process execution",
+    "skills": ["Angular",  "Node", "MongoDB"],
+    "source": "https://ieeexplore.ieee.org/document/9525708"
+  },
+  {
+    "title": "Musicaly",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to classify the songs based on emotions.",
+    "skills": ["Python", "Flask", "Machine Learning"],
+    "source": "https://github.com/methma96/MusicPlayer"
+  },
+  {
+    "title": "Ecommerce Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to develop an single vendor e-commerce platform.",
+    "skills": ["PHP","MYSQL"],
+    "source": "https://github.com/methma96/"
+  },
+  {
+  
+      "title": "My Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to create a portfolio",
+      "skills": ["React","CSS"],
+      "source": "https://github.com/methma96/"
+    
+
+  }
+]
